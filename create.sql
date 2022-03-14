@@ -1,5 +1,7 @@
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`classicmodels` /*!40100 DEFAULT CHARACTER SET latin1 */;
 USE `classicmodels`;
+##Ordem de criação e inserção das tabelas 
+##offices,productlins, employees, products, customers, payment, orders e orderdetails
 ##5-customers
 DROP TABLE IF EXISTS `customers`;
 
